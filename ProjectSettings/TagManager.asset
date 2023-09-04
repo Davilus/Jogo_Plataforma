@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Trap
+  - Ladder
+  - Checkpoint
+  - Tesouro1
+  - Tesouro2
+  - Tesouro3
+  - Ground
+  - Finished
+  - JumpPad
+  - Green Grape
+  - Green Grape 2
+  - Green Grape 3
+  - Green Grape 4
+  - Green Grape 5
+  - Green Grape 6
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1027099859
+    locked: 0
+  - name: Decoration
+    uniqueID: 4225177129
+    locked: 0
+  - name: Objects
+    uniqueID: 1212777107
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1449215967
+    locked: 0
+  - name: Player
+    uniqueID: 3835193047
+    locked: 0
+  - name: Text
+    uniqueID: 538038807
+    locked: 0
